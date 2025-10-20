@@ -173,4 +173,8 @@ body {
         display: block;
         background-image: none;
     }
+
+    .container__imagem__combo {
+        width: 50vw;
+    }
 }
