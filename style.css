@@ -177,4 +177,8 @@ body {
     .container__imagem__combo {
         width: 50vw;
     }
+
+    .container__caixa {
+        margin: 2em 2em;
+    }
 }
