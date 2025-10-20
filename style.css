@@ -180,5 +180,15 @@ body {
 
     .container__caixa {
         margin: 2em 2em;
+        text-align: center;
+    }
+
+    .secundario {
+        margin: 0;
+        text-align: center;
+    }
+
+    .secundario__imagem {
+        width: 50vw;
     }
 }
